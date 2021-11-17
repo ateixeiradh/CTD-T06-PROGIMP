@@ -21,8 +21,6 @@ console.log(array1, array2);
 // verificando se sao iguais
 console.log( array1 == array2 );
 
-
-
 /**
  * let meuarray = [10, 3, 10, 4]; 
 function somarArray(params) {

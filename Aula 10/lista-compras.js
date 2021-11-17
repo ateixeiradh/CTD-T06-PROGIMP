@@ -14,7 +14,6 @@
 
 // console.log(somarArray("[1,2,3]"));
 
-
 // POSIÇÃO DE ARRAY = cada item entre vírgula é uma posição
 // POSIÇÃO INICIAL DE TODO ARRAY VAI SER = 0 (zero)
 // EXEMPLO -> QUANDO O TAMANHO DO ARRAY É 7: TEMOS AS POSIÇÕES DE [0 .. 6]
