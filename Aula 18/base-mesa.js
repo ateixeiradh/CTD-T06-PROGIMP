@@ -48,4 +48,4 @@ function arrayHandler(array1, array2) {
 
 arrayHandler([1,2,3], ["o","l","á"]);
 
-arrayHandler([1,2,3,4], ["o","l","á"]);
+arrayHandler([1,2,3,4], ["o","l","á"]); // tamanho de parâmetros é diferente
