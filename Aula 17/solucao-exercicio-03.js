@@ -8,3 +8,12 @@ let concatenacao = numeros.reduce(function (acumulador, numero) {
     return acumulador + " - " + numero;
 })
 console.log(concatenacao);
+
+// EXEMPLO SOMA
+let soma = numeros.reduce(function (i, numero) {
+    // incremento
+    // i++ -> i = i +1
+    return i + numero;
+})
+
+console.log(soma);

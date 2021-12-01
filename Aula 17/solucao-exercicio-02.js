@@ -5,6 +5,8 @@
 // Utilize o .filter() para obter apenas esses dois índices com o nome Maria.
 let nomes = ["Pedro", "João", "Maria", "Alberto", "Maria"];
 let marias = nomes.filter(function (nome) {
-    return nome === "Maria"
+    // return nome === "Maria" // includes('M')
+    
+    return nome.toUpperCase().includes('O');
 });
 console.log(marias);
