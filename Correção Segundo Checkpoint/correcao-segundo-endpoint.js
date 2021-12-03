@@ -153,7 +153,9 @@ let saida = [99, 10, 8, 7, 6,  1, 0]
 // console.log("x= "+x);
 // console.log('y= '+y);
 
-// // questao 14 - ANULADA
+// Questão 14
+// Essa questão abrange a definição da estrutura de IF, que se sua condição tiver uma resposta verdadeira, este será ignorado.
+// Logo, o IF sendo ignorado, "A instrução abaixo do fechamento do if é executada."
 
 // // Numa construção de um IF sem o ELSE o que acontece se o teste da condição retornar FALSE?
 // // A instrução abaixo do fechamento do if é executada.
