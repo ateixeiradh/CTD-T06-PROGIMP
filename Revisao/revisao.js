@@ -52,6 +52,7 @@ function mostrarMateria() { // ESTRUTURA BÁSICA DE FUNÇÃO
 
 // CRIAMOS UMA FUNÇÃO
 // REALIZAR UMA AÇÃO que envolve operadores
+
 // OPERADORES
     // MATEMÁTICOS
     // [adição +] [subtração -] [multiplicação *] [divisão /] [resto da divisão % (MOD - módulo)]
